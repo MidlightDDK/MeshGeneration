@@ -1,2 +1,2 @@
-# mesh_generation
+# MeshGeneration
 Creating Meshes in Unity
